@@ -1,4 +1,11 @@
 /* styles.css */
-body { font-family: system-ui, sans-serif; margin: 20px; }
+body { 
+
+    font-family: system-ui, sans-serif; margin: 20px; 
+    background-color: rebeccapurple;
+    color: antiquewhite;
+}
 .header { color: darkslategray; }
+
+
 .btn { background: #06c; color: #fff; padding: 8px 12px; border: none; border-radius: 4px; }
